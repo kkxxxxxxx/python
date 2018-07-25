@@ -8,3 +8,4 @@ python -m pyftpdlib
 # -d 指定目录 （默认为当前目录）
 # -u 指定用户名登录
 # -P 设置登录密码
+# python -m pyftpdlib -u admin -P admin -p 21
