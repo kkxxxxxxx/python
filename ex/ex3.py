@@ -15,7 +15,7 @@ print(3 + 2 < 5 - 7)
 print("What is 3 + 2?", 3 + 2)
 # 减法运算
 print("What is 5 - 7?", 5 - 7)
-# 布尔值判断
+# 布尔值运算
 print("Oh, that 's why it's False.")
 
 print("How about some more.")
